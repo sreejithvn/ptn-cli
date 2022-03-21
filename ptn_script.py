@@ -5,9 +5,9 @@ import time
 import re
 import argparse
 
-DEFAULT_IP = "10.123.201.217"
-username = "fiberhome"
-password = "fiberhome"
+DEFAULT_IP = "10.10.10.10"
+username = "username"
+password = "password"
 
 port = 23
 connection_timeout = 5
